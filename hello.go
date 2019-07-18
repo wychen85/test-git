@@ -1,4 +1,4 @@
-/* go run name.go */
+/* Execute : go run name.go */
 package main
 
 import (
